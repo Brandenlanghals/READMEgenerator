@@ -66,6 +66,7 @@ ${data.test}
 
 <img src="${data.avatar_url}" alt="avatar" style="border-radius: 14px width="20" />
 
+Questions? Please contact [${data.github}](${data.url}) at ${data.email}. 
 `;
 }
 module.exports = generateMarkdown;

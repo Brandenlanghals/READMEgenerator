@@ -4,7 +4,7 @@
 
 ## Description
 
-A command-line app that will allow for quick generation of a README.
+A command-line app that dynamically generates a README from a user's input.
 
 ## Table of Contents
 
@@ -26,13 +26,13 @@ undefined
 
 ## Usage
 
-none
+None
 
 
 
 ## Contributing
 
-have fun 
+Have FUN
 
 ## Tests
 
@@ -46,3 +46,4 @@ npm test
 
 <img src="https://avatars3.githubusercontent.com/u/11791361?v=4" alt="avatar" style="border-radius: 14px width="20" />
 
+Questions? Please contact [brandenlanghals](https://api.github.com/users/undefined) at null. 
