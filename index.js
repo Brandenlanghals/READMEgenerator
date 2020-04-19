@@ -21,11 +21,34 @@ const questions = [
         message: "Please write a short description of your project."
     },
     {
+        type: "input",
+        name: "install",
+        message: "What steps are required to install your project?"
+    },
+    {
         type: "list",
         name: "license",
         message: "What kind of license should your project use?",
-        choices: ["None", "APACHE 2.0", "GPL 3.0", "BSD 3", "MIT"]
+        choices: ["None", "wtfpl", "apache-2.0", "unlicense", "mpl-2.0", "lgpl", "gpl-3.0", "MIT", "OSL-3.0"]
     },
+    {
+        type: "input",
+        name: "test",
+        message: "What command should be used to run tests?",
+        default: "npm test"
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "What information does the user need for using the repo?"
+    },
+    {
+        type: "input",
+        name: "contributing",
+        message: "What information does the user need for repo contribution?"
+    },
+    
+
 
 ];
 
