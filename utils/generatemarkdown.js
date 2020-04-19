@@ -20,6 +20,7 @@ This project is licensed under the ${license} license.`
 function generateMarkdown(data) {
   return `
 # ${data.title}
+${renderLicenseBadge(data.license, data.github, data.title)}
 `;
 }
 module.exports = generateMarkdown;
