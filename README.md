@@ -26,13 +26,13 @@ undefined
 
 ## Usage
 
-None
+Please answer the questions.
 
 
 
 ## Contributing
 
-Have FUN
+none
 
 ## Tests
 
@@ -44,6 +44,6 @@ npm test
 
 ## Questions 
 
-<img src="https://avatars3.githubusercontent.com/u/11791361?v=4" alt="avatar" style="border-radius: 14px width="20" />
+<img src="https://avatars3.githubusercontent.com/u/58713197?s=460&u=1016156eef10079c23921d22224ee731333d418e&v=4" alt="avatar" style="border-radius: 14px width="20" />
 
-Questions? Please contact [brandenlanghals](https://api.github.com/users/undefined) at null. 
+Questions? Please contact [Brandenlanghals](https://api.github.com/users/brandenlanghals) at brandenlanghals@gmail.com 
