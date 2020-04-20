@@ -27,7 +27,7 @@ The user will be prompted for their GitHub username and other information pertai
 
 ## Usage
 
-Please answer the questions.
+GitHub username, project title, description, contributers, licensing info, and testing. 
 
 
 
