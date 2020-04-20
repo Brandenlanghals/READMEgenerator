@@ -20,9 +20,10 @@ A command-line app that dynamically generates a README from a user's input.
 
 * [Questions](#questions)
 
+## Installation
 
+The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 
-undefined
 
 ## Usage
 
@@ -38,9 +39,9 @@ none
 
 To run tests, please type the following command:
 
-```
+
 npm test
-```
+
 
 ## Questions 
 
