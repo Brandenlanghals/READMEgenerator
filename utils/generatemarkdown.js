@@ -40,7 +40,7 @@ ${data.description}
 
 * [Questions](#questions)
 
-
+## Installation
 
 ${data.installation}
 
@@ -58,13 +58,11 @@ ${data.contributing}
 
 To run tests, please type the following command:
 
-\`\`\`
 ${data.test}
-\`\`\`
 
-## Questions 
+## Questions?
 
-<img src="${data.avatar_url}" alt="avatar" style="border-radius: 14px width="20" />
+<img src="${data.avatar_url}" alt="avatar" style="border-radius: 16px width="30" />
 
 Questions? Please contact [${data.github}](${data.url}) at ${data.email}. 
 `;
