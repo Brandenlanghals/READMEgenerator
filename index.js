@@ -22,7 +22,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "install",
+        name: "installation",
         message: "What steps are required to install your project?"
     },
     {
@@ -45,7 +45,7 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "What information does the user need for repo contribution?"
+        message: "Please list the names of all contributers?"
     },
     
 
