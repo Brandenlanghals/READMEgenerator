@@ -33,7 +33,7 @@ Please answer the questions.
 
 ## Contributing
 
-none
+Brandenlanghals
 
 ## Tests
 
